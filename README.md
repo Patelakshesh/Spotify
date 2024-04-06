@@ -13,7 +13,7 @@ CSS
 JavaScript
 
 How to Run
-Clone the repository: git clone https:/Patelakshesh/github.com//spotify.git
+Clone the repository: git clone https:/Patelakshesh/github.com//spotify.git.
 Open index.html in your web browser.
 
 Contributing
